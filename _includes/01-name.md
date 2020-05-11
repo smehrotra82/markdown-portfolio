@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Markdowns are fun
+## This is Sumeet's blog
+###### Lets innovate
